@@ -1,3 +1,5 @@
+// Input: 3 * 4     Output: 12
+
 // C++ Language
 #include<iostream>
 using namespace std;
