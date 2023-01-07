@@ -1,3 +1,3 @@
 DLL file:   *.dll
     - Là thư viện chứa code, dữ liệu
-    - Khi gọi thư viện động chỉ copy 1 lần thay vì nhiều lần như thư viện tỉnh
+    - Khi gọi thư viện động chỉ copy 1 lần thay vì nhiều lần như thư viện tĩnh
