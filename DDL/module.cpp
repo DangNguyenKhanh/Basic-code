@@ -1,0 +1,5 @@
+// advoid mangled - Đọc ngược tên
+extern "C" __declspec(dllexport) int add(int a, int b)
+{
+    return a + b;
+}
